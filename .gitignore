@@ -3,4 +3,6 @@
 /resources
 .hugo_build.lock
 hugo_stats.json
-/_vendor/
+_vendor/
+tmp-hugo/
+hugo
