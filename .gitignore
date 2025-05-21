@@ -1,8 +1,12 @@
-*.log
-/public
-/resources
+## Hugo
+public/
+resources/
 .hugo_build.lock
 hugo_stats.json
 _vendor/
 tmp-hugo/
 hugo
+
+## Environment
+.vscode/
+*.log
