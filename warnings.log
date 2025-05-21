@@ -1,0 +1,39 @@
+WARN  skipping template file "/Users/nsm/Projects/nsm-3home/_vendor/github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind/layouts/_default/_markup/sitemap.xml": unrecognized render hook template
+WARN  *****************************
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":interface {}(nil), "item":(*hugolib.pageState)(0x140014a87e0), "page":(*hugolib.pageState)(0x140014a87e0)}
+WARN  DEBUG $item.Title: "Blog" and .Date: 2023-10-27 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":0, "item":(*hugolib.pageState)(0x1400133a9a0), "page":(*hugolib.pageState)(0x1400133a9a0)}
+WARN  DEBUG $item.Title: "🎉 Easily create your own simple yet highly customizable blog" and .Date: 2023-10-27 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{"columns":2, "fill_image":true, "len":5}, "index":interface {}(nil), "item":map[string]interface {}{"wcBlock":map[string]interface {}{"block":"collection", "content":map[string]interface {}{"filters":map[string]interface {}{"folders":[]interface {}{"blog"}}}, "design":map[string]interface {}{"spacing":map[string]interface {}{"padding":[]interface {}{"3rem", 0, "6rem", 0}}}}, "wcIdentifier":"section-collection", "wcPage":(*hugolib.pageState)(0x140015236c0)}, "page":map[string]interface {}{"block":"collection", "content":map[string]interface {}{"filters":map[string]interface {}{"folders":[]interface {}{"blog"}}}, "design":map[string]interface {}{"spacing":map[string]interface {}{"padding":[]interface {}{"3rem", 0, "6rem", 0}}}}}
+WARN  DEBUG $item.Title: <nil> and .Date: <nil>
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":1, "item":(*hugolib.pageState)(0x140014c85b0), "page":(*hugolib.pageState)(0x140014c85b0)}
+WARN  DEBUG $item.Title: "🧠 Sharpen your thinking with a second brain" and .Date: 2023-10-26 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":2, "item":(*hugolib.pageState)(0x140014a91f0), "page":(*hugolib.pageState)(0x140014a91f0)}
+WARN  DEBUG $item.Title: "📈 Communicate your results effectively with the best data visualizations" and .Date: 2023-10-25 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":3, "item":(*hugolib.pageState)(0x140014c90a0), "page":(*hugolib.pageState)(0x140014c90a0)}
+WARN  DEBUG $item.Title: "👩🏼\u200d🏫 Teach academic courses" and .Date: 2023-10-24 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":4, "item":(*hugolib.pageState)(0x140014a9b90), "page":(*hugolib.pageState)(0x140014a9b90)}
+WARN  DEBUG $item.Title: "✅ Manage your projects" and .Date: 2023-10-23 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":interface {}(nil), "item":(*hugolib.pageState)(0x140014c9c70), "page":(*hugolib.pageState)(0x140014c9c70)}
+WARN  DEBUG $item.Title: "Academic" and .Date: 2023-10-27 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":interface {}(nil), "item":(*hugolib.pageState)(0x140014c9730), "page":(*hugolib.pageState)(0x140014c9730)}
+WARN  DEBUG $item.Title: "Hugo" and .Date: 2023-10-25 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":0, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x1400133a9a0)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x1400133a9a0)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":0, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a91f0)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a91f0)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":1, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c90a0)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c90a0)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":interface {}(nil), "item":(*hugolib.pageState)(0x140014c9f10), "page":(*hugolib.pageState)(0x140014c9f10)}
+WARN  DEBUG $item.Title: "Hugo Blox Builder" and .Date: 2023-10-24 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":0, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c90a0)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c90a0)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":interface {}(nil), "item":(*hugolib.pageState)(0x140014c99d0), "page":(*hugolib.pageState)(0x140014c99d0)}
+WARN  DEBUG $item.Title: "Markdown" and .Date: 2023-10-27 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":interface {}(nil), "item":(*hugolib.pageState)(0x140014c9880), "page":(*hugolib.pageState)(0x140014c9880)}
+WARN  DEBUG $item.Title: "Hugo Blox" and .Date: 2023-10-27 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":1, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a91f0)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a91f0)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":2, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a9b90)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a9b90)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":interface {}(nil), "item":(*hugolib.pageState)(0x140014c9dc0), "page":(*hugolib.pageState)(0x140014c9dc0)}
+WARN  DEBUG $item.Title: "Second Brain" and .Date: 2023-10-26 00:00:00 +0000 UTC
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":0, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c85b0)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c85b0)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":1, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c85b0)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c85b0)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":2, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a91f0)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a91f0)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":3, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c90a0)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014c90a0)}}
+WARN  CARD CALLED — context: map[string]interface {}{"config":map[string]interface {}{}, "index":4, "item":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a9b90)}, "page":hugolib.pageWithWeight0{weight0:0, pageState:(*hugolib.pageState)(0x140014a9b90)}}

@@ -1,6 +1,8 @@
-*.log
+
 /public
 /resources
 .hugo_build.lock
 hugo_stats.json
 /_vendor/
+go.mod
+go.sum
